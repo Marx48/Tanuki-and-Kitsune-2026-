@@ -16,7 +16,7 @@ English subtitle releases for the short-form anime **Tanuki to Kitsune** (*Racco
 ## 🔗 Where to Find Releases
 You can download the full batches and video releases on:
 * **AnimeTosho / NekoBT**
-* **[Google Drive Folder]([SEU_LINK_AQUI](https://drive.google.com/drive/folders/1C5SKxVKnGL8T5Q3g63SiOO7niCelD2ZO?usp=drive_link)**
+* **([Google Drive](https://drive.google.com/drive/folders/1C5SKxVKnGL8T5Q3g63SiOO7niCelD2ZO?usp=drive_link)**
 
 ---
 *Feel free to open an issue or pull request if you notice any typos or timing issues!*
