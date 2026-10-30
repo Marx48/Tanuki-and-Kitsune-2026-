@@ -1,4 +1,4 @@
-# Tanuki and Kitsune 2026
+# Tanuki to Kitsune 2026
 English subtitles (ass/softsubs) for the short-form anime Tanuki to Kitsune. Enjoy the cozy adventures of the raccoon dog and fox!
 # Tanuki to Kitsune (Raccoon Dog and Fox) - English Fansubs
 
