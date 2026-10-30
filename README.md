@@ -10,7 +10,7 @@ English subtitle releases for the short-form anime **Tanuki to Kitsune** (*Racco
 * **Compatibility:** Multiplexed and tested for MKV containers.
 
 ## 📂 Repository Structure
-* subtitles/ - Contains individual .ass subtitle files for each episode.
+* subtitles - Contains individual .ass subtitle files for each episode.
 
 ## 🔗 Where to Find Releases
 You can download the full batches and video releases on:
